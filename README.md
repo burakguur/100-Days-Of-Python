@@ -1,5 +1,5 @@
 # 100-Days-Of-Python
-##100 Days of Code - Python
+
 
 This is my personal repository for the 100 Days of Code challenge, where I will be coding in Python for 100 consecutive days.
 
