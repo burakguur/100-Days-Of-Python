@@ -7,5 +7,5 @@ In this repository, you will find my progress and daily log of what I've learned
 
 I hope to improve my skills in Python, gain more experience in software development, and develop a habit of consistent coding.
 
-Feel free to browse my code and provide feedback or suggestions. And if you're also participating in the 100 Days of Code challenge, let's connect and support each other on this journey!
+Feel free to browse my code and provide feedback or suggestions. And if you're also participating in the 100 Days of Code challenge, let's connect and support each other on this journey!!!
 
